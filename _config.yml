@@ -1,13 +1,13 @@
 # Site settings
-title: FF Blog
-SEOTitle: 傅枫的博客 | FF Blog
+title: HYF Blog
+SEOTitle: 黄云峰的博客 | HYF Blog
 header-img: img/post-bg-universe.jpg
-email: 897958555@qq.com
+email: 66107969@qq.com
 description: "Every failure is leading towards success."
-keyword: "FF, FF Blog, 傅枫的博客, fufeng, 傅枫, 傅枫, fufeng, java"
-url: "http://micropieces.github.io"          # your host, for absolute URL
+keyword: "kanerier, HYF, HYF Blog, 黄云峰的博客, yunfeng"
+url: "https://kanerier.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/MicroPieces/micropieces.github.io.git" # you code repository
+github_repo: "https://github.com/kanerier/kanerier.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     fufeng
-zhihu_username:     fufeng
-github_username:    fufeng
-facebook_username:  fufeng
-jianshu_username:   fufeng
-#twitter_username:   qiubaiying
+# weibo_username:     your name
+# zhihu_username:     your name
+# github_username:    your name
+# facebook_username:  your name
+# jianshu_username:   your name
+# twitter_username:   your name
 
 
 
